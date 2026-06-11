@@ -1,0 +1,7 @@
+KANDA RDP - CONNECTION INFO
+========================================
+  Tunnel TCP   : tcp://arxvupgqo6.localto.net:4945
+  RDP User     : Kandagawa
+  RDP Pass     : Kandagw@12345
+  Runtime      : 355 min
+========================================
